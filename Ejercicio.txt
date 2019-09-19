@@ -1,0 +1,24 @@
+Ejercicio Empleados
+
+Diseña los tipos de empleados de una empresa
+1. Empleados de planta permanente
+2. Empleados de planta temporal
+3. Gerentes
+
+Datos necesarios:
+1. Importe por hijo = $20
+2. Importe por casado = $10
+3. Cantidad de horas trabajadas (Empleado Temporal)
+4. Es casado? (Permanente)
+5. Cantidad de hijos (Permanente)
+6. Antiguedad de los empleados (Permanente)
+7. Por cada año el sueldo recibe un 4%
+8. cantidad de horas extras.
+9. Honorario por hora $100 (Temporal)
+10. Honorario por hora extra $150 (Permanente)
+
+-------------------
+
+Clase Empresa
+1. Lista de empleados (ArrayList de empleados)
+2. Calcular el dinero que hay que tener para pagar los sueldos.
